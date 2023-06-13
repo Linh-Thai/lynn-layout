@@ -118,33 +118,33 @@ body {
 }
 
 .card {
-  background-image: url("./images/card.jpg");
+  background-image: url("./images/card.png");
 }
 
 .donut {
-  background-image: url("./images/donut.jpg");
+  background-image: url("./images/donut.png");
 }
 
 .gauge {
-  background-image: url("./images/gauge.jpg");
+  background-image: url("./images/gauge.png");
 }
 
 .horizonbar {
-  background-image: url("./images/horizonbar.jpg");
+  background-image: url("./images/horizonbar.png");
 }
 
 .line {
-  background-image: url("./images/line.jpg");
+  background-image: url("./images/line.png");
 }
 
 .pie {
-  background-image: url("./images/pie.jpg");
+  background-image: url("./images/pie.png");
 }
 
 .scatter {
-  background-image: url("./images/scatter.jpg");
+  background-image: url("./images/scatter.png");
 }
 
 .tree {
-  background-image: url("./images/tree.jpg");
+  background-image: url("./images/tree.png");
 }
